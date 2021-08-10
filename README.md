@@ -3,4 +3,4 @@ Quantum AMT Machine whit Multiple window in python
 
 run 'python install -'ATM_Machine.py'
 
-❮img src="images/Menu Page.JPG.png" ❯
+❮img src="images/MenuPage.JPG.png" ❯
