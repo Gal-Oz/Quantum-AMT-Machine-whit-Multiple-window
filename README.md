@@ -3,9 +3,9 @@ Quantum AMT Machine whit Multiple window in python
 
 run 'python install -ATM_Machine.py'
 
-format: https://www.semicolonworld.com/question/42826/switch-between-two-frames-in-tkinter
+format_1: https://www.semicolonworld.com/question/42826/switch-between-two-frames-in-tkinter
 
-        https://www.semicolonworld.com/question/42826/switch-between-two-frames-in-tkinter
+format_2: https://www.semicolonworld.com/question/42826/switch-between-two-frames-in-tkinter
         
 fg & bg: https://www.w3schools.com/colors/colors_picker.asp
 
